@@ -42,7 +42,7 @@ ftp (ip_alvo)
 
 ================================================
 
-## EM FORMULÁRIO DE LOGUN EM SISTEMAS WEB ##
+## EM FORMULÁRIO DE LOGIN EM SISTEMAS WEB ##
 
 - No navegador web: (ip_alvo)/dvwa/login.php > abrir barra de navegação (desenvolvedor)
 - Em "network" vemos o que está sendo enviado e recebido (post > request)
